@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "e8baae55dc0a2705",
+    "type": "split",
+    "children": [
+      {
+        "id": "d75a26dc9e8af8ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9820139a8948fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Trading Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Trading Journal"
+            }
+          },
+          {
+            "id": "473d3c74bf41e035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outline for infos1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline for infos1"
+            }
+          },
+          {
+            "id": "43f90a038ec81f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK FEATURE TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GK FEATURE TODO"
+            }
+          },
+          {
+            "id": "0b7b0dc8b5ac8ee8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a948a8c66b26d10a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3ce872b1462a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82f91fbda1b8b49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a0281bcc701894d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a90cc23a8ab49dfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "a503ef6dbc6505c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d620e76bbf73a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f78d4226b9d12229",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Outline for infos1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Outline for infos1"
+            }
+          },
+          {
+            "id": "dd49872dc734b45e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09a70d7717d1f69f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d5f27428577949af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0b7b0dc8b5ac8ee8",
+  "lastOpenFiles": [
+    "GK FEATURE TODO.md",
+    "Gankster killer.md",
+    "GK OUTLINE.md",
+    "Outline for infos1.md",
+    "Applications.md",
+    "Social Trading Journal.md",
+    "COMP SCI.md",
+    "STJ GOALS AND FEATURES.md",
+    "stj gal.md",
+    "stj breakdown.md",
+    "studentdevelopment/notes/101525.md",
+    "Filler words.md",
+    "studentdevelopment/notes/91725.md",
+    "Student Development.md",
+    "MAIN PAGE.md",
+    "informativespeeech1.md",
+    "SPEECH.md",
+    "Transition words.md",
+    "Version 1 BACKTEST.md",
+    "Pasted image 20250916135824.png",
+    "Lunchbox project website debrief.md",
+    "my outline.md",
+    "Group Speech one.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "academic power words.md",
+    "Outline info.md",
+    "VV.md",
+    "Screenshot 2025-09-24 151512.png",
+    "Screenshot 2025-09-24 151525.png",
+    "Screenshot 2025-09-24 151538.png",
+    "Pasted image 20250924151627.png",
+    "studentdevelopment/notes",
+    "studentdevelopment",
+    "9/17",
+    "9",
+    "Table of content.base",
+    "Chapter 4 notes.canvas",
+    "Pasted image 20250917103455.png",
+    "Pasted image 20250917103433.png",
+    "Screenshot 2025-09-17 102319.png",
+    "Screenshot 2025-09-17 102305.png",
+    "Screenshot 2025-09-17 102256.png",
+    "Chapt. 4 Notes.pdf",
+    "Untitled",
+    "back-test-calculator.exe",
+    "desktop.ini"
+  ]
+}

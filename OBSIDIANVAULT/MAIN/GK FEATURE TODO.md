@@ -1,0 +1,9 @@
+- [ ] In depth team builder with preferred roles, coach slots, and sub slots.(and owner)
+- [ ] LMS system (a system to search for scrims at the last minute, you choose the things your looking for, or leave it blank and then you wait)
+- [ ] lft and lfp (looking for team and looking for player) tabs. players put out there information like what role they play and their rank and experiences and what they want to do weather that is premier or if that is tournament play. and teams put out post where they look for players coaches and subs. they say the rank of their team and what they plan to do weather that is premier or tournaments and any other information
+- [ ] LFG, find people to play ranked with pretty simple. players say their rank and what role they play and whether they want a long term duo trio or 5 stack or just something to run for the night.
+- [ ] custom ranked system, similar to faciet but solely for valorant. you get an Elo and it is firstly based off your rank, then it changes based off your performance in game. later on we will verify based off your valorant tracker to prevent smurfing but just for now we will worry about that later.
+- [ ] link to discord and link to valorant tracker. this way it will make it easier to confirm ranks or if a rank of a player changes it will updated automatically.
+- [ ] login and signup page.
+- [ ] "Pro Scrims" and "Micro Leagues" (tournaments). pro scrims will be a place for t1 and t2 teams to scrim in a more professional environment. there will be a verification process and once they are verified they will be able to make LFS in the pro scrims area. 
+- [ ] micro leagues will be tournaments similar to premier. how it will work exactly is to be decided later but I want a tab for them for team owners. (open to all ranks, doesn't have to qualify for pro scrims)

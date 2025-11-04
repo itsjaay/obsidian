@@ -1,0 +1,5 @@
+[GITHUB LINK TO BACKTEST RESULT CALCULATOR](https://github.com/itsjaay/BACKTESTING-RESULT-CALCULATOR)
+[[Version 1 BACKTEST]]
+
+
+[[comp sci]]

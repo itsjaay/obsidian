@@ -1,0 +1,5 @@
+lets make a work space for a better version of the skrim finding site GANKSTER. firstly I want to go ahead and make a basic outline. I want a team dashboard where you can add and remove members of a team, and I want a scrim finding dashboard where you can puut out a lfs (looking for scrim) as well as look at other peoples looking for scrims.
+
+on the team dashboard I want you to be able to add the ranks of your members. for sinmplicity we will use valorant ranks, so iron 1 2 3 bronze 1 2 3 silver 1 2 3 gold 1 2 3 plat 1 2 3 diamond 1 2 3 acsendent (please fix that spelling) 1 2 3 immortal 1 2 3 (fix spelling too) and radiant, and display the average rank for your team members and also display that next to all the teams looking for scrims. make it functional for the demonstration please
+
+I'll start by creating a small todo plan, then add a minimal single-page app (HTML/CSS/JS) that implements the team dashboard and scrim-finding dashboard with localStorage persistence and average-rank calculation for demonstration.
