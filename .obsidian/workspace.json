@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "57320f6cacd0c59e",
+        "id": "78f8aa600fbbce47",
         "type": "tabs",
         "children": [
           {
@@ -22,7 +22,21 @@
             }
           },
           {
-            "id": "ee13d7e969a386e0",
+            "id": "a62590645ad86e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSIDIANVAULT/MAIN/SPEECH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPEECH"
+            }
+          },
+          {
+            "id": "3f9fe01aaad17afb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -30,9 +44,29 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "023ab13a7cc4cd53",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            }
+          },
+          {
+            "id": "dc2bdf1442964003",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,29 +205,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "ee13d7e969a386e0",
+  "active": "3f9fe01aaad17afb",
   "lastOpenFiles": [
-    "OBSIDIANVAULT/MAIN/Trig&colalg.md",
-    "OBSIDIANVAULT/MAIN/Chapter 4 notes.canvas",
+    "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
+    "OBSIDIANVAULT/MAIN/SPEECH.md",
+    "Occasion Speech.md",
     "research for smrp.md",
+    "draft 1 for smrp.md",
     "Social media research paper.md",
-    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
     "spelling bee project c++.md",
     "project instructions.md",
     "Copy of [Make a Copy] Spelling Bee Starter Doc.pdf",
-    "OBSIDIANVAULT/MAIN/COMPSCI 1.md",
-    "OBSIDIANVAULT/MAIN/COMP SCI.md",
-    "draft 1 for smrp.md",
     "outline for smrp.md",
+    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
     "OBSIDIANVAULT/MAIN/Filler words.md",
     "OBSIDIANVAULT/MAIN/Gankster killer.md",
     "OBSIDIANVAULT/MAIN/doublefvgSetups.md",
@@ -201,6 +235,6 @@
     "OBSIDIANVAULT/MAIN/Version 1 BACKTEST.md",
     "OBSIDIANVAULT/MAIN/Back test result calculator.md",
     "OBSIDIANVAULT/MAIN/Applications.md",
-    "OBSIDIANVAULT/MAIN/MAIN PAGE.md"
+    "OBSIDIANVAULT/MAIN/COMP SCI.md"
   ]
 }
