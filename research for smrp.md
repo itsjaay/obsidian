@@ -10,6 +10,9 @@ The second profile would be the passive user (which was 25.3% of the sample grou
 the last profile is going to be the average user which is 42% of the sample population has been shown to meet in the middle of both of the previous in terms of not missing out but not being as high of a risk of depression and anxiety as others
 }
 
+SOURCE 2 {
+
+}
 
 # Sources
 Keum, Brian TaeHyuk, et al. "Benefits and harms of social media use: A latent profile analysis of emerging adults." _Current Psychology_, 21 July 2022, pp. 1–13. Springer Nature, PubMed Central, [https://pmc.ncbi.nlm.nih.gov/articles/PMC9302950/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9302950/).
