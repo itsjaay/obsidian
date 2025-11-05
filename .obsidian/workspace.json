@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "research for smrp"
             }
+          },
+          {
+            "id": "ee13d7e969a386e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "26cf33c2702403f4",
+  "active": "ee13d7e969a386e0",
   "lastOpenFiles": [
+    "OBSIDIANVAULT/MAIN/Trig&colalg.md",
+    "OBSIDIANVAULT/MAIN/Chapter 4 notes.canvas",
     "research for smrp.md",
     "Social media research paper.md",
     "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
