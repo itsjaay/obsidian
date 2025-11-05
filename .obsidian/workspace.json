@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78f8aa600fbbce47",
+        "id": "a993a4b5f1fbda95",
         "type": "tabs",
         "children": [
           {
-            "id": "a62590645ad86e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBSIDIANVAULT/MAIN/SPEECH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SPEECH"
-            }
-          },
-          {
-            "id": "f4b92d528de9b24b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBSIDIANVAULT/MAIN/Back testing results.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Back testing results"
-            }
-          },
-          {
-            "id": "26cf33c2702403f4",
+            "id": "fb9809a35346f786",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,90 +20,9 @@
               "icon": "lucide-file",
               "title": "research for smrp"
             }
-          },
-          {
-            "id": "3f9fe01aaad17afb",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "023ab13a7cc4cd53",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "dc2bdf1442964003",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "14487fc7bd2e2250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DISS"
-            }
-          },
-          {
-            "id": "c0484768bf4c429f",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "462f2339dc4c2633",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "a8813378d0deb84a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social media research paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Social media research paper"
-            }
           }
         ],
-        "currentTab": 9
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -204,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social media research paper.md",
+                "file": "research for smrp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Social media research paper"
+              "title": "Backlinks for research for smrp"
             }
           },
           {
@@ -260,13 +151,22 @@
               "icon": "lucide-list",
               "title": "Outline of Social media research paper"
             }
+          },
+          {
+            "id": "003176493d294d4c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,28 +180,29 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a8813378d0deb84a",
+  "active": "fb9809a35346f786",
   "lastOpenFiles": [
-    "research for smrp.md",
-    "OBSIDIANVAULT/MAIN/Back testing results.md",
-    "OBSIDIANVAULT/MAIN/SPEECH.md",
-    "Untitled.base",
+    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
     "DISS.md",
+    "Social media research paper.md",
+    "Untitled.base",
+    "OBSIDIANVAULT/MAIN/SPEECH.md",
+    "OBSIDIANVAULT/MAIN/Back testing results.md",
+    "2025-11-05.md",
+    "research for smrp.md",
+    "ESPORTS.md",
     "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
     "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
-    "ESPORTS.md",
     "OBSIDIANVAULT/MAIN/Student Development.md",
     "OBSIDIANVAULT/MAIN/Gankster killer.md",
     "OBSIDIANVAULT/MAIN/Applications.md",
     "OBSIDIANVAULT/MAIN/COMP SCI.md",
     "Occasion Speech.md",
     "draft 1 for smrp.md",
-    "Social media research paper.md",
     "spelling bee project c++.md",
     "project instructions.md",
     "Copy of [Make a Copy] Spelling Bee Starter Doc.pdf",
     "outline for smrp.md",
-    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
     "OBSIDIANVAULT/MAIN/Filler words.md",
     "OBSIDIANVAULT/MAIN/doublefvgSetups.md",
     "OBSIDIANVAULT/MAIN/CUTCO.md",
