@@ -7,7 +7,7 @@
     _This is awesome, I would suggest we have it where you can basically take the gamble to play against much less fair team but gives a higher chance of finding a scrim in those few minutes_
     
     - [ ] lft and lfp (looking for team and looking for player) tabs. players put out there information like what role they play and their rank and experiences and what they want to do weather that is premier or if that is tournament play. and teams put out post where they look for players coaches and subs. they say the rank of their team and what they plan to do weather that is premier or tournaments and any other information,
-    
+    1
     - This is where I have the most to say. I want a proper system for finding and looking for teams. Firstly I think that every team should have the ability to post that they are looking for a player and all that. But I want to have built in form systems. Instead of a terrible DM chat system, I want all players applying to a LFP to have to go through a built in form. That way teams actually can pick and choose who they send a message/invite to join.,
     
     For the LFT system, I think something valuable would yes be able to post you're looking for a team. But also have something that uses the filters, rank, other preferences you selected and suggest teams to join automatically so that both the player have a better shot at finding a team and also teams that are looking get more exposure* I have more to say on this but just will leave it there for now.
