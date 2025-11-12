@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "GK FEATURE TODO"
             }
+          },
+          {
+            "id": "b7e187acdab17323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "short form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "short form"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
+                "file": "short form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GK FEATURE TODO"
+              "title": "Backlinks for short form"
             }
           },
           {
@@ -114,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social media research paper.md",
-                "linksCollapsed": false,
+                "file": "short form.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Social media research paper"
+              "title": "Outgoing links from short form"
             }
           },
           {
@@ -162,7 +177,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,10 +196,20 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fb9809a35346f786",
+  "active": "b7e187acdab17323",
   "lastOpenFiles": [
-    "OBSIDIANVAULT/MAIN/Gankster killer.md",
     "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
+    "short form.md",
+    "Video Collection.md",
+    "long form.md",
+    "content creation.md",
+    "Thumbnail collection.md",
+    "finalthumbnail.png",
+    "VODS.md",
+    "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
+    "ESPORTS.md",
+    "PVAMU ESPORTS.md",
+    "OBSIDIANVAULT/MAIN/Gankster killer.md",
     "OBSIDIANVAULT/MAIN/GK OUTLINE.md",
     "research for smrp.md",
     "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
@@ -193,21 +219,12 @@
     "OBSIDIANVAULT/MAIN/SPEECH.md",
     "OBSIDIANVAULT/MAIN/Back testing results.md",
     "2025-11-05.md",
-    "ESPORTS.md",
-    "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
     "OBSIDIANVAULT/MAIN/Student Development.md",
     "OBSIDIANVAULT/MAIN/Applications.md",
     "OBSIDIANVAULT/MAIN/COMP SCI.md",
     "Occasion Speech.md",
     "draft 1 for smrp.md",
     "spelling bee project c++.md",
-    "project instructions.md",
-    "Copy of [Make a Copy] Spelling Bee Starter Doc.pdf",
-    "outline for smrp.md",
-    "OBSIDIANVAULT/MAIN/Filler words.md",
-    "OBSIDIANVAULT/MAIN/doublefvgSetups.md",
-    "OBSIDIANVAULT/MAIN/CUTCO.md",
-    "OBSIDIANVAULT/MAIN/Version 1 BACKTEST.md",
-    "OBSIDIANVAULT/MAIN/Back test result calculator.md"
+    "Copy of [Make a Copy] Spelling Bee Starter Doc.pdf"
   ]
 }

@@ -1,0 +1,2 @@
+[[Video Collection]]
+[[Thumbnail collection ]]
