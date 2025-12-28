@@ -20,6 +20,7 @@
               "icon": "lucide-file",
               "title": "Trading"
             }
+<<<<<<< HEAD
           },
           {
             "id": "b7e187acdab17323",
@@ -58,6 +59,8 @@
               "icon": "lucide-file",
               "title": "3D-Graph"
             }
+=======
+>>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
           }
         ],
         "stacked": true
@@ -152,12 +155,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "OBSIDIANVAULT/MAIN/Trading.md",
+=======
+                "file": "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
+>>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Trading"
+=======
+              "title": "Outgoing links from GK FEATURE TODO"
+>>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
             }
           },
           {
@@ -221,6 +232,7 @@
   },
   "active": "fb9809a35346f786",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
     "OBSIDIANVAULT/MAIN/COMP SCI.md",
     "OBSIDIANVAULT/MAIN/Version 1 COMM APP.md",
@@ -234,18 +246,38 @@
     "VOD NOTES.md",
     "Sacret Hearts Esports.md",
     "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
+=======
+    "OBSIDIANVAULT/MAIN/Gankster killer.md",
+    "OBSIDIANVAULT/MAIN/GK OUTLINE.md",
+    "OBSIDIANVAULT/MAIN/Applications.md",
+    "OBSIDIANVAULT/MAIN/COMP SCI.md",
+>>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
     "research for smrp.md",
     "Social media research paper.md",
-    "short form.md",
+    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
+    "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
+    "VALORANT 11-11-25.md",
+    "VOD NOTES.md",
+    "Sacret Hearts Esports.md",
+    "ESPORTS.md",
     "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
+    "OBSIDIANVAULT/MAIN/Lunchbox project website debrief.md",
+    "OBSIDIANVAULT/MAIN/MATH.md",
+    "ENGLCOMP4QUESTIONGROUPASSIGNMENT.md",
+    "short form.md",
     "Video Collection.md",
     "long form.md",
     "content creation.md",
     "Thumbnail collection.md",
     "finalthumbnail.png",
     "VODS.md",
+<<<<<<< HEAD
     "OBSIDIANVAULT/MAIN/Gankster killer.md",
     "OBSIDIANVAULT/MAIN/GK OUTLINE.md",
+=======
+    "PVAMU ESPORTS.md",
+    "DISS.md",
+>>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
     "Untitled.base",
     "OBSIDIANVAULT/MAIN/SPEECH.md",
     "OBSIDIANVAULT/MAIN/Back testing results.md",
