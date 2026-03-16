@@ -1,83 +1,66 @@
 {
   "main": {
-    "id": "21cd62cafbe9b9b2",
+    "id": "d00e9aab24723e89",
     "type": "split",
     "children": [
       {
-        "id": "a993a4b5f1fbda95",
+        "id": "058240f168560b46",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9809a35346f786",
+            "id": "c975721775df53d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "ecb3fdb03d328863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIANVAULT/MAIN/Trading.md",
+                "file": "budget.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading"
+              "title": "budget"
             }
-<<<<<<< HEAD
           },
           {
-            "id": "b7e187acdab17323",
+            "id": "64bb8bbff92a6959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "ENGLCOMP4QUESTIONGROUPASSIGNMENT.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.7"
               },
-              "icon": "lucide-file",
-              "title": "ENGLCOMP4QUESTIONGROUPASSIGNMENT"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
-          },
-          {
-            "id": "de7a74593a9d29c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VALORANT 11-11-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VALORANT 11-11-25"
-            }
-          },
-          {
-            "id": "06fd155b59ddbc30",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-=======
->>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9170937f96cb19f7",
+    "id": "533cc5aad0b5a8d7",
     "type": "split",
     "children": [
       {
-        "id": "da54e4fb1054f395",
+        "id": "899f81549e851c40",
         "type": "tabs",
         "children": [
           {
-            "id": "b0feec904c30a1b2",
+            "id": "371a563d8d7c88ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,17 +73,7 @@
             }
           },
           {
-            "id": "b06bfe1788340c40",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "578cca5422144d1e",
+            "id": "fc51e1c0202c8e22",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -115,6 +88,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "405c9fdf70193750",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
@@ -123,20 +106,20 @@
     "width": 300
   },
   "right": {
-    "id": "0062f7538d62d080",
+    "id": "67a74776a8b6122c",
     "type": "split",
     "children": [
       {
-        "id": "e1cd757c3a2f21bc",
+        "id": "b180ad458ac72bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "127fce5c48249506",
+            "id": "aef9a1c05e5e62c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGLCOMP4QUESTIONGROUPASSIGNMENT.md",
+                "file": "budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,33 +129,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ENGLCOMP4QUESTIONGROUPASSIGNMENT"
+              "title": "Backlinks for budget"
             }
           },
           {
-            "id": "37526c30cdfa6f9a",
+            "id": "67c9728683fa134a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "OBSIDIANVAULT/MAIN/Trading.md",
-=======
-                "file": "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
->>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
-                "linksCollapsed": true,
+                "file": "budget.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from Trading"
-=======
-              "title": "Outgoing links from GK FEATURE TODO"
->>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
+              "title": "Outgoing links from budget"
             }
           },
           {
-            "id": "93f4621c367fbbb9",
+            "id": "dcdfac247a34d9a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -187,22 +162,22 @@
             }
           },
           {
-            "id": "a1a92a081f57327a",
+            "id": "d6b5616d4e669f22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social media research paper.md",
+                "file": "budget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Social media research paper"
+              "title": "Outline of budget"
             }
           },
           {
-            "id": "003176493d294d4c",
+            "id": "0971ed4ddc9d64c6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -211,76 +186,31 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fb9809a35346f786",
+  "active": "64bb8bbff92a6959",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
-    "OBSIDIANVAULT/MAIN/COMP SCI.md",
-    "OBSIDIANVAULT/MAIN/Version 1 COMM APP.md",
-    "OBSIDIANVAULT/MAIN/Commission application.md",
-    "OBSIDIANVAULT/MAIN/Applications.md",
-    "DISS.md",
-    "ESPORTS.md",
-    "PVAMU ESPORTS.md",
-    "VALORANT 11-11-25.md",
-    "ENGLCOMP4QUESTIONGROUPASSIGNMENT.md",
-    "VOD NOTES.md",
-    "Sacret Hearts Esports.md",
-    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
-=======
-    "OBSIDIANVAULT/MAIN/Gankster killer.md",
-    "OBSIDIANVAULT/MAIN/GK OUTLINE.md",
-    "OBSIDIANVAULT/MAIN/Applications.md",
-    "OBSIDIANVAULT/MAIN/COMP SCI.md",
->>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
-    "research for smrp.md",
-    "Social media research paper.md",
-    "OBSIDIANVAULT/MAIN/ENGLCOMP.md",
-    "OBSIDIANVAULT/MAIN/MAIN PAGE.md",
-    "VALORANT 11-11-25.md",
-    "VOD NOTES.md",
-    "Sacret Hearts Esports.md",
-    "ESPORTS.md",
-    "OBSIDIANVAULT/MAIN/GK FEATURE TODO.md",
-    "OBSIDIANVAULT/MAIN/Lunchbox project website debrief.md",
-    "OBSIDIANVAULT/MAIN/MATH.md",
-    "ENGLCOMP4QUESTIONGROUPASSIGNMENT.md",
-    "short form.md",
-    "Video Collection.md",
-    "long form.md",
-    "content creation.md",
-    "Thumbnail collection.md",
-    "finalthumbnail.png",
-    "VODS.md",
-<<<<<<< HEAD
-    "OBSIDIANVAULT/MAIN/Gankster killer.md",
-    "OBSIDIANVAULT/MAIN/GK OUTLINE.md",
-=======
-    "PVAMU ESPORTS.md",
-    "DISS.md",
->>>>>>> 85a17b2223409da929eb6d2cec660030403fadeb
     "Untitled.base",
-    "OBSIDIANVAULT/MAIN/SPEECH.md",
-    "OBSIDIANVAULT/MAIN/Back testing results.md",
-    "Copy of [Make a Copy] Spelling Bee Starter Doc.pdf"
+    "budget.md",
+    "financial.md",
+    "income streams.md",
+    "OBSIDIANVAULT/MAIN/MAIN PAGE.md"
   ]
 }

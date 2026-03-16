@@ -7,3 +7,5 @@
 [[Student Development]]
 [[ESPORTS]]
 [[content creation]]
+
+[[financial]] 
